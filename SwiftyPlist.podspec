@@ -27,7 +27,7 @@ A Plist representation inspired by PropertyList which is inspired by SwiftyJSON.
   s.source           = { :git => "https://github.com/VinceBurn/SwiftyPlist.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/2000Bernier'
 
-  s.platform     = :ios, '8.0'
+  s.platform     = :osx, '10.12'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'
